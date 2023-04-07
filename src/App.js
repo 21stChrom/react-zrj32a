@@ -45,9 +45,8 @@ const {width, setWidth} = useState(640);
 
  </div>
 
- <div className="player"></
-
- div>
+ <div className="player">
+ </div>
 
  <div className={minimized ,{showMinimized? ,"show":""}>
  </div>
